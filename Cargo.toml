@@ -21,3 +21,15 @@ name = "02_game_loop"
 
 [[example]]
 name = "03_image"
+
+[[example]]
+name = "04_sprite"
+
+[[example]]
+name = "05_player"
+
+[[example]]
+name = "06_move1"
+
+[[example]]
+name = "07_move2"
